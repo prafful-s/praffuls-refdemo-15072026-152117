@@ -1,22 +1,22 @@
 {
   "mappings": [
-    "/content/696f3e84bf795426d5d1d8e7/language-masters/en:/",
-    "/content/696f3e84bf795426d5d1d8e7/language-masters/en/:/en/",
-    "/content/696f3e84bf795426d5d1d8e7/language-masters/fr/:/fr/",
-    "/content/696f3e84bf795426d5d1d8e7/language-masters/fr:/fr",
-    "/content/696f3e84bf795426d5d1d8e7/language-masters/es/:/es/",
-    "/content/696f3e84bf795426d5d1d8e7/language-masters/es:/es",
-    "/content/696f3e84bf795426d5d1d8e7/language-masters/ja/:/ja/",
-    "/content/696f3e84bf795426d5d1d8e7/language-masters/ja:/ja",
-    "/content/696f3e84bf795426d5d1d8e7/language-masters/de/:/de/",
-    "/content/696f3e84bf795426d5d1d8e7/language-masters/de:/de",
-    "/content/696f3e84bf795426d5d1d8e7/configuration:/.helix/config.json",
-    "/content/696f3e84bf795426d5d1d8e7/metadata:/metadata.json",
-    "/content/696f3e84bf795426d5d1d8e7/redirects:/redirects.json",
-    "/content/696f3e84bf795426d5d1d8e7/placeholders:/placeholders.json"
+    "/content/praffuls/6a57a568e3348fc76f45a45a/language-masters/en:/",
+    "/content/praffuls/6a57a568e3348fc76f45a45a/language-masters/en/:/en/",
+    "/content/praffuls/6a57a568e3348fc76f45a45a/language-masters/fr/:/fr/",
+    "/content/praffuls/6a57a568e3348fc76f45a45a/language-masters/fr:/fr",
+    "/content/praffuls/6a57a568e3348fc76f45a45a/language-masters/es/:/es/",
+    "/content/praffuls/6a57a568e3348fc76f45a45a/language-masters/es:/es",
+    "/content/praffuls/6a57a568e3348fc76f45a45a/language-masters/ja/:/ja/",
+    "/content/praffuls/6a57a568e3348fc76f45a45a/language-masters/ja:/ja",
+    "/content/praffuls/6a57a568e3348fc76f45a45a/language-masters/de/:/de/",
+    "/content/praffuls/6a57a568e3348fc76f45a45a/language-masters/de:/de",
+    "/content/praffuls/6a57a568e3348fc76f45a45a/configuration:/.helix/config.json",
+    "/content/praffuls/6a57a568e3348fc76f45a45a/metadata:/metadata.json",
+    "/content/praffuls/6a57a568e3348fc76f45a45a/redirects:/redirects.json",
+    "/content/praffuls/6a57a568e3348fc76f45a45a/placeholders:/placeholders.json"
   ],
   "includes": [
-    "/content/696f3e84bf795426d5d1d8e7/",
-    "/content/dam/696f3e84bf795426d5d1d8e7/"
+    "/content/praffuls/6a57a568e3348fc76f45a45a/",
+    "/content/dam/praffuls/6a57a568e3348fc76f45a45a/"
   ]
 }
